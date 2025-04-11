@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded)
-Welcome to My Profile! 
-My name is Jang Ji Ho. 
-I'm a beginner developer. looking forward to working with you!
+![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 
 <!--
 **JangJiHo90/JangJiHo90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
